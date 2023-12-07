@@ -1,0 +1,121 @@
+###################################################
+#This tool is used for those of you who are new to#
+#using Termux so you can install the basic Termux #
+#module 					  #
+###################################################
+
+##################################################
+#Follow the instructions for manual installation #
+#Copy and paste for auto install module		 #
+##################################################
+
+####################
+#manual type module#
+#################################################
+#default module V1 [simple version]		#
+#################################################
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install ruby
+$ pkg install curl
+$ pkg install figlet
+$ pkg install php
+$ pkg install toilet
+$ pkg install git
+$ pip install colorama
+$ pip install requests
+$ pip install mechanize
+$ pip install lolcat
+$ pip install flask
+$ pip install rich
+$ pip install bash
+$ pip install bs4
+$ pkg install python3
+
+#################################################
+#default module V2 [long version]		#
+#################################################
+$ pkg update && pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pkg install python3
+$ pkg install curl
+$ pkg install ruby
+$ pkg install php
+$ pkg install figlet
+$ pkg install toilet
+$ pkg install git
+$ pip install bash
+$ pip install stdiomask
+$ pip install lolcat
+$ pip install requests
+$ pip install bs4
+$ pip install simplejson
+$ pip install requests
+$ pip install futures
+$ pip install rich
+$ pip install mechanize
+$ pip install cython
+$ pip install licensing
+$ pip install colorama
+$ pip install proxy
+$ pip install telethon
+
+#################
+#auto copy paste#
+##################################################
+#default module V1 [simple version]		 #
+##################################################
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install ruby
+pkg install curl
+pkg install figlet
+pkg install php
+pkg install toilet
+pkg install git
+pip install colorama
+pip install requests
+pip install mechanize
+pip install lolcat
+pip install flask
+pip install rich
+pip install bash
+pip install bs4
+pkg install python3
+
+#################################################
+#default module V2 [long version]		#
+#################################################
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install python3
+pkg install curl
+pkg install ruby
+pkg install php
+pkg install figlet
+pkg install toilet
+pkg install git
+pip install bash
+pip install stdiomask
+pip install lolcat
+pip install requests
+pip install bs4
+pip install simplejson
+pip install requests
+pip install futures
+pip install rich
+pip install mechanize
+pip install cython
+pip install licensing
+pip install colorama
+pip install proxy
+pip install telethon
+
+
+##############
+#coded by (?)#
+##############
